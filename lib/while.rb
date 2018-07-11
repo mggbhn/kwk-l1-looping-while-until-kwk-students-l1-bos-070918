@@ -1,7 +1,9 @@
 def using_while
-  while x < 10
+  
 	levitation_force = 6
-	
+	while x < 10
+	x = x+1
+	puts ""
 	#your code here
 end
 
